@@ -1,0 +1,15 @@
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.csprojAssemblyReference.cache
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.AssemblyInfoInputs.cache
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.AssemblyInfo.cs
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.csproj.CoreCompileInputs.cache
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.deps.json
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.runtimeconfig.json
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.runtimeconfig.dev.json
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.dll
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/bin/Debug/net5.0/ref/Triangle.dll
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/bin/Debug/net5.0/Triangle.pdb
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.dll
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/obj/Debug/net5.0/ref/Triangle.dll
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.pdb
+/Users/arthurbuck/Desktop/projects/Triangle.Solution/Triangle/obj/Debug/net5.0/Triangle.genruntimeconfig.cache
