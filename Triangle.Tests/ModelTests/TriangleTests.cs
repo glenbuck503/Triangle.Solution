@@ -16,10 +16,20 @@ namespace TriangleChecker.Tests
     [TestMethod]
     public void TriangleType_Scalene_True()
     {
-      Triangle testTriangle = new Triangle();
-      Assert.AreEqual("Scalene", testTriangle.TriangleType(5, 3, 4));
+      Assert.AreEqual("Scalene", new Triangle().TriangleType(5, 3, 4));
     }
 
+    [TestMethod]
+    public void TriangleType_Equilateral_True()
+    {
+     
+      Assert.AreEqual("Equilateral", new Triangle().TriangleType(777,777,777));
+    }
 
+    [TestMethod]
+    public void TriangleType_Isosceles_True()
+    {
+      Assert.AreEqual("Isosceles", new Triangle().TriangleType(2,3,3));
+    }
   }
 }
