@@ -20,7 +20,14 @@ namespace TriangleChecker
       int side3 = int.Parse(userSide3);
 
       Triangle triangle = new Triangle();
-      Console.WriteLine(triangle.isTriangle(side1, side2, side3));
+      if(triangle.IsTriangle(side1, side2, side3))
+      {
+        Console.WriteLine(triangle.TriangleType(side1,side2,side3));
+      }
+      else
+      {
+        Console.WriteLine("Sorry. Not a triangle.");
+      }
     }
   }
 

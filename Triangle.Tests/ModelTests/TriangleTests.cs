@@ -7,10 +7,19 @@ namespace TriangleChecker.Tests
   public class TriangleTests
   {
     [TestMethod]
-    public void isTriangle_ThreeSidesDontMakeTriangle_True()
+    public void IsTriangle_ThreeSidesDontMakeTriangle_True()
     {
       Triangle testTriangle = new Triangle();
-      Assert.AreEqual(false, testTriangle.isTriangle(2, 1, 4));
+      Assert.AreEqual(false, testTriangle.IsTriangle(2, 1, 4));
     }
+
+    [TestMethod]
+    public void TriangleType_Scalene_True()
+    {
+      Triangle testTriangle = new Triangle();
+      Assert.AreEqual("Scalene", testTriangle.TriangleType(5, 3, 4));
+    }
+
+
   }
 }
